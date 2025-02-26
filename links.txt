@@ -1,0 +1,16 @@
+Calibration FishEye camera opencv
+https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-333b05afa0b0
+Part 2 of calibration FishEye python
+https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-part-2-13990f1b157f
+Converting dual fisheye images into a spherical (equirectangular) projection
+https://paulbourke.net/dome/dualfish2sphere/
+Deep Sort for object tracking using YOLO
+https://www.ikomia.ai/blog/deep-sort-object-tracking-guide
+Dataset videos and images panoramic
+https://home.mis.u-picardie.fr/~panoramis/
+repo dual-fish-eye to equirectangular c++ calibration.xml required
+https://github.com/RoblabWh/dualfisheyeequirectangular
+Paper detección de bounding boxes con lenguaje natural
+https://arxiv.org/pdf/2104.12763
+deep sort tracking con C++
+https://github.com/apennisi/deep_sort/tree/master
